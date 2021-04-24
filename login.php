@@ -34,9 +34,8 @@
 
 					<div class="wrap-input100 validate-input" data-validate="Enter password">
 						<span class="btn-show-pass">
-							<i class="zmdi zmdi-eye"></i>
 						</span>
-						<input class="input100" type="password" name="password">
+						<input class="input100" type="password" placeholder="password" name="password">
 					</div>
 
 					<div class="container-login100-form-btn">
