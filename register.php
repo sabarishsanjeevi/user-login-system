@@ -47,7 +47,7 @@
 						<span class="btn-show-pass">
 						</span>
 						<input class="input100" type="password" name="password_2">
-						<span class="focus-input100" data-placeholder="Password"></span>
+						<span class="focus-input100" data-placeholder="Confirm password"></span>
 					</div>
 
 					<div class="container-login100-form-btn">
